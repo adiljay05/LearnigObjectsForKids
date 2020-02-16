@@ -9,3 +9,8 @@ How to install application?
 
 How to operate application?
 
+1. Open the application.
+2. place the camera on an object.
+3. if the rectangle is drawn, click on the object.
+4. the voice message will be spoken.
+5. repeat the process on other objects.
