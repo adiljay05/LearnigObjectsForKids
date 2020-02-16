@@ -1,0 +1,4 @@
+#Sat Feb 15 23:55:14 PST 2020
+base.0=C\:\\Users\\jawad\\Desktop\\CaTDetectorProject_\\CaTDetectorProject\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
